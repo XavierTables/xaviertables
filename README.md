@@ -1,16 +1,30 @@
-## Hi there 👋
+# Xavier Tables
 
-<!--
-**XavierTables/xaviertables** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security+ certified cybersecurity candidate pursuing entry-level SOC analyst
+and IT support opportunities in Cleveland or remotely.
 
-Here are some ideas to get you started:
+I document hands-on work involving vulnerability management, malware analysis,
+network traffic, Windows security, Active Directory, and incident investigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+- CompTIA Security+
+- CompTIA SecurePath Cybersecurity Boot Camp — Cuyahoga Community College
+
+## Current Focus
+
+- SOC alert investigation
+- Windows Event Logs and Sysmon
+- Vulnerability remediation
+- Network traffic analysis
+- Active Directory administration and security
+
+## Featured Projects
+
+Projects currently being rebuilt with technical evidence and remediation results.
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/xaviertables
+- Location: Cleveland, Ohio
+- Availability: Any shift, including overnight
