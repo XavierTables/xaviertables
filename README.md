@@ -25,6 +25,6 @@ Projects currently being rebuilt with technical evidence and remediation results
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/xaviertables
+- [LinkedIn](https://www.linkedin.com/in/xaviertables)
 - Location: Cleveland, Ohio
 - Availability: Any shift, including overnight
