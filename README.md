@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio. I am building this repository to demonstr
 
 My career focus is **Security Operations Center (SOC) analysis**, including security log investigation, alert triage, network traffic analysis, incident response, and vulnerability management.
 
-I publish projects after reviewing the lab, collecting my own evidence, verifying the technical details, and documenting the analysis in my own words.
+I publish projects after reviewing the lab, collecting my own evidence, verifying the technical details, and documenting the analysis.
 
 ---
 
