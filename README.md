@@ -4,9 +4,21 @@
 
 Welcome to my cybersecurity portfolio. I am building this repository to demonstrate practical security-analysis skills developed through the Cuyahoga Community College SecurePath Cybersecurity Boot Camp, authorized uCertify labs, and continued independent learning.
 
-My career focus is **Security Operations Center (SOC) analysis**, including security log investigation, alert triage, network traffic analysis, malware analysis, incident response, and vulnerability management.
+My career focus is **Security Operations Center (SOC) analysis**, including security log investigation, alert triage, network traffic analysis, incident response, and vulnerability management.
 
-I am publishing projects individually after reviewing the lab, collecting my own evidence, verifying the technical details, and documenting the analysis in my own words.
+I publish projects after reviewing the lab, collecting my own evidence, verifying the technical details, and documenting the analysis in my own words.
+
+---
+
+## Featured Security Investigation
+
+### [Windows Security Log Triage: Administrator Password Reset & SYSTEM Activity](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md)
+
+**Status: Completed | Focus: Windows Security Logs / SOC Triage**
+
+Analyzed Windows Security events **4724, 4738, 4624, and 4672** to determine whether an Administrator password reset and later privileged activity indicated unauthorized access.
+
+The investigation correlates account-management and service-authentication events, distinguishes normal SYSTEM service activity from remote user activity, documents evidence limitations, and explains what I would validate next in a production SOC.
 
 ---
 
@@ -21,56 +33,32 @@ I am publishing projects individually after reviewing the lab, collecting my own
 
 ## Technical Foundation
 
-| Area                         | Training and Tools                                                                                               |
-| :--------------------------- | :--------------------------------------------------------------------------------------------------------------- |
-| **Security Operations**      | Windows Event Viewer, Windows and Linux logs, Syslog, event triage, MITRE ATT&CK, incident-response fundamentals |
-| **Network Analysis**         | Wireshark, TCPdump, Nmap, Netstat, packet analysis                                                               |
-| **Malware Analysis**         | VirusTotal, file hashes, behavioral indicators, IOC identification                                               |
-| **Vulnerability Management** | Nessus, Nikto, vulnerability research, CVSS interpretation                                                       |
-| **Digital Forensics**        | FTK Imager, Autopsy, forensic imaging, hash verification, chain of custody                                       |
-| **Web Application Security** | OWASP ZAP, DVWA, SQL injection, XSS, CSRF, LFI/RFI                                                               |
-| **Systems**                  | Windows lab environments, Kali Linux, Linux command line, macOS                                                  |
-| **Documentation**            | Evidence collection, investigation timelines, security findings, remediation recommendations                     |
+| Area | Training and Tools |
+| :--- | :--- |
+| **Security Operations** | Windows Event Viewer, Windows and Linux logs, Syslog, event triage, incident-response fundamentals |
+| **Network Analysis** | Wireshark, TCPdump, Nmap, Netstat, packet analysis |
+| **Vulnerability Management** | Tenable Nessus, vulnerability research, CVSS interpretation |
+| **Systems** | Windows lab environments, Kali Linux, Linux command line, macOS |
+| **Documentation** | Evidence collection, investigation timelines, security findings, remediation recommendations |
 
 ---
 
-## Published Projects
+## Project Portfolio
 
-Project reports will be added here after each investigation has been completed, verified, and documented.
-
----
-
-## Current Project
-
-### Project 01 — Windows Event Log Triage and Analysis
-
-This project will demonstrate how a SOC analyst uses Windows Event Viewer and audit logs to:
-
-* Locate relevant Windows security events
-* Interpret Event IDs and event details
-* Examine authentication and account activity
-* Filter logs during an investigation
-* Build an activity timeline
-* Distinguish normal activity from suspicious behavior
-* Document an analyst verdict
-* Recommend appropriate investigation and response actions
-
-The finished report will include sanitized evidence collected from an authorized uCertify lab environment.
+| Project | Focus | Status |
+|---|---|---|
+| [Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md) | Security Operations / Log Analysis | **Completed** |
+| Nessus Vulnerability Assessment | Vulnerability Management | **In Progress** |
+| SIEM Alert Investigation | Detection / Alert Triage | Planned |
+| Network Traffic Analysis | Wireshark / Network Security | Planned |
 
 ---
 
-## Portfolio Roadmap
+## Current Build
 
-1. **Windows Event Log Triage and Analysis**
-2. **SIEM Alert Investigation using Splunk**
-3. **Network Traffic Investigation using Wireshark and TCPdump**
-4. **Malware Triage and IOC Analysis**
-5. **Endpoint Telemetry Analysis using Sysmon**
-6. **Digital Forensics Investigation using FTK Imager and Autopsy**
-7. **Vulnerability Management using Nessus**
-8. **Web Application Security Assessment using DVWA**
+### Nessus Vulnerability Assessment
 
-Splunk and Sysmon are planned learning projects and are not currently presented as completed technical skills.
+I am currently building a vulnerability-management project around an authorized training environment. The finished project will focus on scan methodology, vulnerability interpretation, remediation prioritization, evidence, and limitations.
 
 ---
 
@@ -80,9 +68,9 @@ Every published project will contain:
 
 * A clear security objective
 * The authorized environment and project scope
-* Tools and data sources used
-* Sanitized evidence collected during the activity
-* Analysis written in my own words
+* Tools and data sources actually used
+* Evidence collected during the activity
+* Analysis I can explain in my own words
 * Findings supported by the available evidence
 * Response or remediation recommendations
 * Limitations and lessons learned
@@ -95,6 +83,10 @@ Some projects in this portfolio are based on guided hands-on labs completed thro
 
 Lab providers supplied certain systems and scenarios. I review and document each selected lab to demonstrate my personal understanding of the security process. Proprietary course instructions and assessment answers are not reproduced.
 
-All security testing documented in this repository was conducted in controlled and authorized environments.
+All security testing documented in this portfolio was conducted in controlled and authorized environments.
 
+---
 
+## Main Portfolio
+
+**[CyberSecurity_Portfolio](https://github.com/XavierTables/CyberSecurity_Portfolio)**
