@@ -8,6 +8,10 @@ My career focus is **Security Operations Center (SOC) analysis**, including secu
 
 I publish projects after reviewing the lab, collecting my own evidence, verifying the technical details, and documenting the analysis.
 
+## Main Portfolio
+
+**[View CyberSecurity_Portfolio](https://github.com/XavierTables/CyberSecurity_Portfolio)**
+
 ---
 
 ## Featured Security Investigation
@@ -84,9 +88,3 @@ Some projects in this portfolio are based on guided hands-on labs completed thro
 Lab providers supplied certain systems and scenarios. I review and document each selected lab to demonstrate my personal understanding of the security process. Proprietary course instructions and assessment answers are not reproduced.
 
 All security testing documented in this portfolio was conducted in controlled and authorized environments.
-
----
-
-## Main Portfolio
-
-**[CyberSecurity_Portfolio](https://github.com/XavierTables/CyberSecurity_Portfolio)**
