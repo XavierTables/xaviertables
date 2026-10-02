@@ -26,7 +26,7 @@ The investigation correlates account-management and service-authentication event
 
 ---
 
-### [Nessus Vulnerability Assessment: Authenticated Baseline & Result Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md)
+### [Nessus Vulnerability Assessment: Authenticated Baseline & Result Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/tree/main/projects/nessus-vulnerability-assessment)
 
 **Status: Completed | Focus: Nessus / Vulnerability Assessment**
 
@@ -62,7 +62,7 @@ The assessment documents the scan workflow, interprets aggregate severity and gr
 | Project | Focus | Status |
 |---|---|---|
 | [Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md) | Security Operations / Log Analysis | **Completed** |
-| [Nessus Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md) | Vulnerability Assessment / Result Triage | **Completed** |
+| [Nessus Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/tree/main/projects/nessus-vulnerability-assessment) | Vulnerability Assessment / Result Triage | **Completed** |
 | SIEM Alert Investigation | Detection / Alert Triage | Planned |
 | Network Traffic Analysis | Wireshark / Network Security | Planned |
 
