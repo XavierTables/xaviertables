@@ -84,21 +84,6 @@ The next planned project will focus on alert triage, event correlation, investig
 
 ---
 
-## Portfolio Standards
-
-Every published project will contain:
-
-* A clear security objective
-* The authorized environment and project scope
-* Tools and data sources actually used
-* Evidence collected during the activity
-* Analysis I can explain in my own words
-* Findings supported by the available evidence
-* Response or remediation recommendations
-* Limitations and lessons learned
-
----
-
 ## Lab Disclosure
 
 Some projects in this portfolio are based on guided hands-on labs completed through the **Cuyahoga Community College SecurePath Cybersecurity Boot Camp**, including authorized uCertify environments.
