@@ -12,6 +12,14 @@ I publish projects after reviewing the lab, collecting my own evidence, verifyin
 
 **[View CyberSecurity_Portfolio](https://github.com/XavierTables/CyberSecurity_Portfolio)**
 
+## Recruiter Snapshot
+
+- **2 completed, evidence-backed projects:** Windows Security Log Triage and Nessus Vulnerability Assessment.
+- **Security operations:** manual Windows event correlation using accounts, timestamps, Logon IDs, logon types, and process context.
+- **Vulnerability assessment:** authenticated Nessus scan configuration, result interpretation, severity-context analysis, and remediation planning.
+- **Reporting standard:** conclusions are separated from assumptions, with limitations and next investigative steps documented.
+- **Next portfolio breadth:** SIEM alert investigation and network traffic analysis.
+
 ---
 
 ## Featured Security Projects
