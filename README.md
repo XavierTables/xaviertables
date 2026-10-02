@@ -14,7 +14,7 @@ I publish projects after reviewing the lab, collecting my own evidence, verifyin
 
 ---
 
-## Featured Security Investigation
+## Featured Security Projects
 
 ### [Windows Security Log Triage: Administrator Password Reset & SYSTEM Activity](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md)
 
@@ -23,6 +23,16 @@ I publish projects after reviewing the lab, collecting my own evidence, verifyin
 Analyzed Windows Security events **4724, 4738, 4624, and 4672** to determine whether an Administrator password reset and later privileged activity indicated unauthorized access.
 
 The investigation correlates account-management and service-authentication events, distinguishes normal SYSTEM service activity from remote user activity, documents evidence limitations, and explains what I would validate next in a production SOC.
+
+---
+
+### [Nessus Vulnerability Assessment: Authenticated Baseline & Result Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md)
+
+**Status: Completed | Focus: Nessus / Vulnerability Assessment**
+
+Configured and completed a Basic Network Scan against the assigned uCertify host, with Windows target credentials and a displayed authentication result of Pass.
+
+The assessment documents the scan workflow, interprets aggregate severity and grouped results, and proposes a process for finding validation, remediation prioritization, and verification. Five lab screenshots support the report; specific exploitability and applied fixes remain unverified.
 
 ---
 
@@ -52,17 +62,17 @@ The investigation correlates account-management and service-authentication event
 | Project | Focus | Status |
 |---|---|---|
 | [Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md) | Security Operations / Log Analysis | **Completed** |
-| Nessus Vulnerability Assessment | Vulnerability Management | **In Progress** |
+| [Nessus Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md) | Vulnerability Assessment / Result Triage | **Completed** |
 | SIEM Alert Investigation | Detection / Alert Triage | Planned |
 | Network Traffic Analysis | Wireshark / Network Security | Planned |
 
 ---
 
-## Current Build
+## Next Planned Project
 
-### Nessus Vulnerability Assessment
+### SIEM Alert Investigation
 
-I am currently building a vulnerability-management project around an authorized training environment. The finished project will focus on scan methodology, vulnerability interpretation, remediation prioritization, evidence, and limitations.
+The next planned project will focus on alert triage, event correlation, investigation decisions, supporting evidence, and a documented disposition in an authorized environment.
 
 ---
 
