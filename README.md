@@ -21,6 +21,6 @@ Based in Cleveland, Ohio. I am pursuing my first professional IT or cybersecurit
 
 ## Next Focus
 
-Planned projects will add **SIEM alert investigation** and **network traffic analysis**.
+Planned portfolio work adds **SIEM alert investigation**, **network traffic analysis**, **malware analysis**, and **web application security**. Each stays labeled as planned until supporting evidence is complete.
 
-*Projects use authorized uCertify training environments. Each report includes supporting evidence, analysis, and clear limitations.*
+*Projects use authorized training environments. Each published report includes supporting evidence, analysis, and clear limitations.*
