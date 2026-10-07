@@ -4,15 +4,15 @@
 
 **[View my full cybersecurity portfolio](https://github.com/XavierTables/CyberSecurity_Portfolio)**
 
-Based in Cleveland, Ohio. I am pursuing my first professional IT or cybersecurity role, with a focus on security operations, log analysis, SIEM investigation, and technical support.
+Based in Cleveland, Ohio. I am working toward my first professional IT or cybersecurity role and have been building hands-on experience in security operations, log analysis, SIEM investigation, vulnerability assessment, and technical support.
 
 ## Completed Projects
 
 | Project | Evidence and analysis |
 |---|---|
-| [Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md) | Correlated four Windows Security events, assessed account and service activity, and documented the disposition and follow-up. |
-| [Nessus Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md) | Configured a credentialed baseline scan, interpreted aggregate and grouped results, and documented validation and remediation recommendations. |
-| [Splunk SIEM Investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md) | Used SPL to correlate Windows Security and Sysmon activity, reconstruct an authenticated session, baseline VPN behavior, and detect rapid geographic anomalies. |
+| [Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md) | Followed four Windows Security events, separated account-reset activity from normal SYSTEM service behavior, and documented what the evidence did and did not prove. |
+| [Nessus Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md) | Configured a credentialed baseline scan, worked through the aggregate and grouped results, and documented how I would validate and prioritize the findings. |
+| [Splunk SIEM Investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md) | Used SPL to follow a Windows session across Security and Sysmon data, baseline VPN behavior, and investigate rapid geographic changes without assuming they proved compromise. |
 
 ## Education and Training
 
@@ -22,6 +22,6 @@ Based in Cleveland, Ohio. I am pursuing my first professional IT or cybersecurit
 
 ## Next Focus
 
-Planned portfolio work adds **network traffic analysis**, **malware analysis**, and **web application security**. Each stays labeled as planned until supporting evidence is complete.
+My next planned areas are **network traffic analysis**, **malware analysis**, and **web application security**. I leave them marked as planned until I have completed the work and can publish supporting evidence.
 
-*Projects use authorized training environments. Each published report includes supporting evidence, analysis, and clear limitations.*
+*All published projects use authorized training environments and include the evidence I worked from, my analysis, and the limits of what the lab data could support.*
