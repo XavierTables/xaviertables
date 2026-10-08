@@ -8,6 +8,15 @@
 
 Based in Cleveland, Ohio. I am working toward my first professional IT or cybersecurity role and have been building hands-on experience in security operations, log analysis, SIEM investigation, vulnerability assessment, and technical support.
 
+## Featured SOC Case — Splunk SIEM Investigation
+
+**[Windows session correlation & VPN anomaly investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md)**
+
+- Analyzed **12,256 Windows/Sysmon events** and **2,000 VPN events** in an authorized training environment.
+- Investigated network logon, account-management activity and Sysmon process relationships; built SPL searches to identify rapid geographic changes.
+- Published **nine evidence screenshots**, a [documented SPL query trail](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/queries/investigation-queries.md), findings, limitations and production SOC follow-up.
+- **Final assessment:** Suspicious patterns requiring validation; no compromise confirmed from the available evidence.
+
 ## Completed Projects
 
 | Project | Evidence and analysis |
