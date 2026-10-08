@@ -19,11 +19,11 @@ Based in Cleveland, Ohio. I am working toward my first professional IT or cybers
 
 ## Completed Projects
 
-| Project | Evidence and analysis |
+| Project | Skills demonstrated |
 |---|---|
-| [Splunk SIEM Investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md) | Used SPL to follow a Windows session across Security and Sysmon data, baseline VPN behavior, and investigate rapid geographic changes without assuming they proved compromise. |
-| [Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md) | Followed four Windows Security events, separated account-reset activity from normal SYSTEM service behavior, and documented what the evidence did and did not prove. |
-| [Nessus Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md) | Configured a credentialed baseline scan, worked through the aggregate and grouped results, and documented how I would validate and prioritize the findings. |
+| [Splunk SIEM Investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md) | SPL, session correlation, process relationships, and VPN baselining. |
+| [Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md) | Account-reset triage, SYSTEM service logons, event correlation, and evidence-based disposition. |
+| [Nessus Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md) | Credentialed baseline scanning, aggregate-result interpretation, and proposed validation and remediation. |
 
 ## Education and Training
 
@@ -33,6 +33,6 @@ Based in Cleveland, Ohio. I am working toward my first professional IT or cybers
 
 ## Next Focus
 
-My next planned areas are **network traffic analysis**, **malware analysis**, and **web application security**. I leave them marked as planned until I have completed the work and can publish supporting evidence.
+My next planned areas are **network traffic analysis**, **malware analysis**, and **web application security**.
 
 *All published projects use authorized training environments and include the evidence I worked from, my analysis, and the limits of what the lab data could support.*
