@@ -12,10 +12,10 @@ Based in Cleveland, Ohio. I am working toward my first professional IT or cybers
 
 **[Windows session correlation & VPN anomaly investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md)**
 
-- Analyzed **12,256 Windows/Sysmon events** and **2,000 VPN events** in an authorized training environment.
-- Investigated network logon, account-management activity and Sysmon process relationships; built SPL searches to identify rapid geographic changes.
-- Published **nine evidence screenshots**, a [documented SPL query trail](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/queries/investigation-queries.md), findings, limitations and production SOC follow-up.
-- **Final assessment:** Suspicious patterns requiring validation; no compromise confirmed from the available evidence.
+- Investigated Windows authentication and account activity; isolated **two rare-country VPN events** and **four rapid country-label transitions** around them.
+- **Final assessment:** Suspicious activity; **compromise unconfirmed**. Documented administrative-approval checks and VPN identity, device, MFA, and routing validation.
+- Used **11 SPL searches** to examine Windows/Sysmon activity and VPN baselines; cross-source host/session linkage remains unverified.
+- Published **nine screenshots** and a [documented SPL query trail](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/queries/investigation-queries.md) from authorized datasets containing 12,256 Windows events and 2,000 VPN events.
 
 ## Completed Projects
 
@@ -23,7 +23,7 @@ Based in Cleveland, Ohio. I am working toward my first professional IT or cybers
 |---|---|
 | [Splunk SIEM Investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md) | SPL, session correlation, process relationships, and VPN baselining. |
 | [Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md) | Account-reset triage, SYSTEM service logons, event correlation, and evidence-based disposition. |
-| [Nessus Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md) | Credentialed baseline scanning, aggregate-result interpretation, and proposed validation and remediation. |
+| [Nessus Guided Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md) | Guided baseline with Auth: Pass; scanner-result interpretation and proposed validation and remediation. |
 
 ## Education and Training
 
