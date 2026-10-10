@@ -8,6 +8,8 @@
 
 Based in Cleveland, Ohio. I am working toward my first professional IT or cybersecurity role and have been building hands-on experience in security operations, log analysis, SIEM investigation, vulnerability assessment, and technical support.
 
+**For hiring managers:** [Concise SOC case brief](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/docs/splunk-incident-brief.md) · [Full Splunk investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md)
+
 ## Featured SOC Case — Splunk SIEM Investigation
 
 **[Windows session correlation & VPN anomaly investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md)**
