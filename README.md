@@ -1,22 +1,22 @@
 # Xavier Tables
 
-**CompTIA Security+ | Entry-level SOC Analyst and IT Support | Cleveland, OH**
+**Security+ certified | Seeking SOC Analyst I or IT Support | Cleveland, OH**
 
-I'm working toward my first IT or security operations job. My [cybersecurity portfolio](https://github.com/XavierTables/CyberSecurity_Portfolio) contains three documented training labs, with screenshots, search queries, findings, and the things I couldn't verify.
+I completed Tri-C's SecurePath cybersecurity training and am looking for my first IT or security role. My [portfolio](https://github.com/XavierTables/CyberSecurity_Portfolio) contains three training projects with screenshots, queries, findings, and follow-up questions.
 
-## Start here: Splunk SIEM investigation
+## Featured project: Splunk investigation
 
-[Full investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md) · [SPL queries](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/queries/investigation-queries.md) · [Short case brief](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/docs/splunk-incident-brief.md)
+[Case brief](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/docs/splunk-incident-brief.md) · [Full report](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md) · [SPL queries](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/queries/investigation-queries.md)
 
-I investigated Windows account activity and unusual VPN country changes using Splunk. The work covered **12,256 Windows events** and **2,000 VPN events** in supplied TryHackMe datasets.
+I investigated Windows account activity and unusual VPN logins in supplied TryHackMe datasets. The VPN searches found two rare-country events and four rapid country changes around them. The Windows searches examined account changes and Sysmon process relationships.
 
-The VPN search found **two rare-country events** and **four rapid country transitions** around them. The Windows work examined account changes and Sysmon process relationships. I flagged both for further investigation rather than claiming the evidence proved an account compromise. The Windows host/session correlation still needs validation.
+My conclusion was to investigate further. The Windows host/session connection needs validation, and the VPN results need device, MFA, and routing context before deciding whether access was unauthorized.
 
-## Other completed lab work
+## Additional lab projects
 
-- **[Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md):** separated a password-reset event from normal-looking SYSTEM service activity.
-- **[Nessus Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md):** completed a guided baseline scan and documented what the reported findings did and didn't establish.
+- **[Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md):** Reviewed an Administrator password reset and a separate SYSTEM service logon in Event Viewer.
+- **[Nessus Vulnerability Assessment](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md):** Ran a guided scan of one lab host and summarized the reported severity counts.
 
-**Background:** Security+ certified in 2026; completed Tri-C SecurePath cybersecurity training; Associate of Arts from Cuyahoga Community College.
+**Background:** CompTIA Security+ (2026); Tri-C SecurePath cybersecurity training (completed June 2026); Associate of Arts, Cuyahoga Community College (2022).
 
 [Connect on LinkedIn](https://www.linkedin.com/in/xaviertables/)
