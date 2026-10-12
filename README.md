@@ -10,7 +10,7 @@ I completed Tri-C's SecurePath cybersecurity training and am looking for my firs
 
 I investigated Windows account activity and unusual VPN logins in supplied TryHackMe datasets. The VPN searches found two rare-country events and four rapid country changes around them. The Windows searches examined account changes and Sysmon process relationships.
 
-My conclusion was to investigate further. The Windows host/session connection needs validation, and the VPN results need device, MFA, and routing context before deciding whether access was unauthorized.
+I found activity worth investigating further. For Windows, I still need to confirm that the Security and Sysmon events came from the same computer and session. For the VPN logins, I would check the devices, MFA results, and routing before deciding whether access was unauthorized.
 
 ## Additional lab projects
 
