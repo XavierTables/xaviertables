@@ -8,14 +8,14 @@ I completed Tri-C's SecurePath cybersecurity training. My portfolio documents Wi
 
 ## Featured case: Splunk investigation
 
-I investigated Windows account activity and unusual VPN logins in supplied TryHackMe datasets. The case includes **11 executed searches**, **nine screenshots**, and a sample handoff. Windows host/session validation remains open and is documented with the report.
+I found two rare-country VPN events and four rapid transitions around them. I documented the user baselines, queries, and evidence needed for follow-up. The report also covers a separate Windows account-activity lead; host/session validation remains open.
 
-[Case brief](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/docs/splunk-incident-brief.md) · [Full investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md) · [SPL queries](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/queries/investigation-queries.md)
+[Case brief](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/docs/splunk-incident-brief.md) · [Full investigation](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/README.md) · [Executed SPL](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/splunk-siem-investigation/queries/investigation-queries.md)
 
 ## Other lab work
 
-- **[Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md):** Distinguished an Administrator password change from later SYSTEM service activity.
-- **[Nessus Baseline Scan](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md):** Configured and completed a guided scan of one host; recorded severity totals.
+- **[Windows Security Log Triage](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/windows-security-log-triage/README.md):** Compared account changes with later SYSTEM service activity.
+- **[Nessus Baseline Scan](https://github.com/XavierTables/CyberSecurity_Portfolio/blob/main/projects/nessus-vulnerability-assessment/README.md):** Completed a guided scan of one host; individual finding validation remains open.
 
 **Background:** CompTIA Security+ (2026); Tri-C SecurePath, completed June 2026; Associate of Arts, Cuyahoga Community College (2022).
 
